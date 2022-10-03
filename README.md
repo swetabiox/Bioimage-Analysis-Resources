@@ -3,7 +3,7 @@ A collection of resources on bioimage analysis and related tools and techniques.
 
 ## Contents:
 - [Datasets](#sources-of-bioimage-datasets)
-- [Courses/Learning resources](#courses/learning-resources-for-bioimage-analysis)
+- [Courses/Learning resources](#courses-and-learning-resources-for-bioimage-analysis)
 - [Researchers/Labs](#researchers-and-labs-working-on-bioimage-analysis)
 
 ## Sources of bioimage datasets
@@ -18,7 +18,7 @@ A collection of resources on bioimage analysis and related tools and techniques.
 
 (more information will be added soon)
 
-## Courses/Learning resources for bioimage analysis
+## Courses and Learning resources for bioimage analysis
 
 1. [Bio-image_Analysis_with_Python](https://github.com/BiAPoL/Bio-image_Analysis_with_Python): This repository contains training resources for Python beginners who want to dive into image processing with Python. These are the lecture materials for "Bio-image analysis, biostatistics, programming and machine learning for computational biology" at the Center of Molecular and Cellular Bioengineering (CMCB) / University of Technology, TU Dresden.
 2. [Bio-Image analysis with Python and Napari - DIGS-BB Light Microscopy Course 2022](https://biapol.github.io/DIGS-BB_LM_Course_Bio-Image_Analysis_2022/intro.html): This one-day course is focused on processing microscopy images showing cells and nuclei.
