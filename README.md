@@ -1,4 +1,4 @@
-# Awesome-Bioimage-Analysis
+# Bioimage-Analysis-Resources
 A collection of resources on bioimage analysis and related tools and techniques.
 
 ## Sources of bioimage datasets
