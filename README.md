@@ -1,6 +1,8 @@
 # Bioimage-Analysis-Resources
 A collection of resources on bioimage analysis and related tools and techniques.
 
+## Contents:
+- [Datasets](## sources-of-bioimage-datasets)
 ## Sources of bioimage datasets
 
 - [Broad Bioimage Benchmark Collection](https://bbbc.broadinstitute.org/image_sets): Annotated biological image sets for testing and validation
