@@ -5,6 +5,7 @@ A collection of resources on bioimage analysis and related tools and techniques.
 - [Datasets](#sources-of-bioimage-datasets)
 - [Courses/Learning resources](#courses-and-learning-resources-for-bioimage-analysis)
 - [Researchers/Labs](#researchers-and-labs-working-on-bioimage-analysis)
+- [Papers](#landmark-papers)
 
 ## Sources of bioimage datasets
 
@@ -36,3 +37,7 @@ A collection of resources on bioimage analysis and related tools and techniques.
 2. [Biological Image Analysis Unit (BIA)](https://research.pasteur.fr/en/team/bioimage-analysis/): Headed by [Jean-Christophe Olivo-Marin](https://research.pasteur.fr/en/member/jean-christophe-olivo-marin/), this group develops and improves on original and rigorous methodologies for the quantification of 3D multichannel image sequences in biological imaging, at the cellular and molecular level, but also at the level of organizations.
 
 (more information will be added soon)
+
+## Landmark Papers
+
+(Coming soon)
