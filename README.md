@@ -11,5 +11,22 @@ A collection of resources on bioimage analysis and related tools and techniques.
 - [PARASITIC EGG DETECTION AND CLASSIFICATION IN MICROSCOPIC IMAGES](https://ieee-dataport.org/competitions/parasitic-egg-detection-and-classification-microscopic-images): The dataset contains 11 parasitic egg types. Each category has 1,000 images, suitable for classification/object recognition.
 - [HUMAN SOMATIC LABEL-FREE BRIGHT-FIELD CELL IMAGES](https://ieee-dataport.org/documents/human-somatic-label-free-bright-field-cell-images): Suitable for multi-class cell classification.
 
+(more information will be added soon)
 
+## Courses/Learning resources for bioimage analysis
 
+1. [Bio-image_Analysis_with_Python](https://github.com/BiAPoL/Bio-image_Analysis_with_Python): This repository contains training resources for Python beginners who want to dive into image processing with Python. These are the lecture materials for "Bio-image analysis, biostatistics, programming and machine learning for computational biology" at the Center of Molecular and Cellular Bioengineering (CMCB) / University of Technology, TU Dresden.
+2. [Bio-Image analysis with Python and Napari - DIGS-BB Light Microscopy Course 2022](https://biapol.github.io/DIGS-BB_LM_Course_Bio-Image_Analysis_2022/intro.html): This one-day course is focused on processing microscopy images showing cells and nuclei.
+3. [Bio-image Analysis Notebooks](https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/intro.html): This collection of Python jupyter notebooks are written for Python beginners who are interested in analyzing three dimensional images of cells and tissues acquired using modern fluorescence microscopes.
+4. [DigitalSreeni](https://www.youtube.com/digitalsreeni): This channel walks us through the entire process of learning to code in Python; all the way from basics to advanced machine learning and deep learning. The emphasis is mainly on microscopy and bioimage analysis. The images and code from this channel can be found [here](https://github.com/bnsreenu/python_for_microscopists).
+5. [Quantitative Bio-Image Analysis with Python Course from BiA-PoL](https://github.com/BiAPoL/Quantitative_Bio_Image_Analysis_with_Python_2022): This 5-day course introduces us to the basics of image data science using Python, napari and Jupyter, enabling us to develop reproducible image analysis workflows using state-of-the art data science methods.
+6. [Bioimage analysis talk series](https://www.ibiology.org/techniques/bioimage-analysis/): In this series, Dr. Anne Carpenter and Dr. Kevin Eliceiri provide an overview of bioimage analysis.
+
+(more information will be added soon)
+
+## Researchers and labs working on bioimage analysis
+
+1. [Kreshuk Group](https://www.embl.org/groups/kreshuk/) - Machine learning for bioimage analysis: Led by [Anna Kreshuk](https://www.embl.org/people/person/f6c69f1e5895edd0a5b4577c1c21312c37abad3b950b90f2edba134b1bf45e06/), the Kreshuk group develops machine learning-based methods and tools for automatic segmentation, classification and analysis of biological images.
+2. [Biological Image Analysis Unit (BIA)](https://research.pasteur.fr/en/team/bioimage-analysis/): Headed by [Jean-Christophe Olivo-Marin](https://research.pasteur.fr/en/member/jean-christophe-olivo-marin/), this group develops and improves on original and rigorous methodologies for the quantification of 3D multichannel image sequences in biological imaging, at the cellular and molecular level, but also at the level of organizations.
+
+(more information will be added soon)
