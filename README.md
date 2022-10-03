@@ -25,7 +25,8 @@ A collection of resources on bioimage analysis and related tools and techniques.
 3. [Bio-image Analysis Notebooks](https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/intro.html): This collection of Python jupyter notebooks are written for Python beginners who are interested in analyzing three dimensional images of cells and tissues acquired using modern fluorescence microscopes.
 4. [DigitalSreeni](https://www.youtube.com/digitalsreeni): This channel walks us through the entire process of learning to code in Python; all the way from basics to advanced machine learning and deep learning. The emphasis is mainly on microscopy and bioimage analysis. The images and code from this channel can be found [here](https://github.com/bnsreenu/python_for_microscopists).
 5. [Quantitative Bio-Image Analysis with Python Course from BiA-PoL](https://github.com/BiAPoL/Quantitative_Bio_Image_Analysis_with_Python_2022): This 5-day course introduces us to the basics of image data science using Python, napari and Jupyter, enabling us to develop reproducible image analysis workflows using state-of-the art data science methods.
-6. [Bioimage analysis talk series](https://www.ibiology.org/techniques/bioimage-analysis/): In this series, Dr. Anne Carpenter and Dr. Kevin Eliceiri provide an overview of bioimage analysis.
+6. [Introduction to Bio-Image Analysis](https://www.denbi.de/online-training-media-library/919-introduction-to-bioimaging): Robert Haase of CSBD/MPI-CBG Dresden gave lectures as part of a lecture series at Biotec TU Dresden about Bio-Image Analysis using Fiji, ImageJ, and others KNIME, good scientific practice and image analysis basics.
+7. [Bioimage analysis talk series](https://www.ibiology.org/techniques/bioimage-analysis/): In this series, Dr. Anne Carpenter and Dr. Kevin Eliceiri provide an overview of bioimage analysis.
 
 (more information will be added soon)
 
