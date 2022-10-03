@@ -6,6 +6,8 @@ A collection of resources on bioimage analysis and related tools and techniques.
 - [Courses/Learning resources](#courses-and-learning-resources-for-bioimage-analysis)
 - [Researchers/Labs](#researchers-and-labs-working-on-bioimage-analysis)
 - [Papers](#landmark-papers)
+- [Softwares](#softwares)
+- [Python libraries](#python-libraries-and-plugins)
 
 ## Sources of bioimage datasets
 
@@ -35,9 +37,26 @@ A collection of resources on bioimage analysis and related tools and techniques.
 
 1. [Kreshuk Group](https://www.embl.org/groups/kreshuk/) - Machine learning for bioimage analysis: Led by [Anna Kreshuk](https://www.embl.org/people/person/f6c69f1e5895edd0a5b4577c1c21312c37abad3b950b90f2edba134b1bf45e06/), the Kreshuk group develops machine learning-based methods and tools for automatic segmentation, classification and analysis of biological images.
 2. [Biological Image Analysis Unit (BIA)](https://research.pasteur.fr/en/team/bioimage-analysis/): Headed by [Jean-Christophe Olivo-Marin](https://research.pasteur.fr/en/member/jean-christophe-olivo-marin/), this group develops and improves on original and rigorous methodologies for the quantification of 3D multichannel image sequences in biological imaging, at the cellular and molecular level, but also at the level of organizations.
+3. [LOÏC ROYER, DR. RER. NAT.](https://www.czbiohub.org/people/cz-biohub-staff/loic-royer-dr-rer-nat/)
 
 (more information will be added soon)
 
 ## Landmark Papers
 
 (Coming soon)
+
+## Softwares
+
+1. [QuPath](https://qupath.github.io/): QuPath is an open, powerful, flexible, extensible software platform for bioimage analysis.
+2. [ImageJ](https://imagej.nih.gov/ij/)
+3. [CellProfiler](https://cellprofiler.org/)
+4. [Fiji](https://fiji.sc/)
+5. [Icy](https://icy.bioimageanalysis.org/)
+
+(More coming soon)
+
+## Python libraries and plugins
+
+1. [Napari](https://napari.org/stable/)
+
+(More Coming soon)
