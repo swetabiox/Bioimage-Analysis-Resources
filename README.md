@@ -42,7 +42,10 @@ A collection of resources on bioimage analysis and related tools and techniques.
 4. [Henriques Laboratory](https://henriqueslab.github.io/): Headed by [Ricardo Henriques](https://henriqueslab.github.io/team/2013-09-01-RH/).
 5. [Jug Group](https://humantechnopole.it/en/research-groups/jug-group/): Headed by [Florian Jug](https://humantechnopole.it/en/people/florian-jug/).
 6. [Myers Lab](http://myerslab.mpi-cbg.de/): Headed by [Gene Myers](https://myerslab.mpi-cbg.de/people/gene/).
-7. [Robert Haase](https://haesleinhuepf.github.io/)
+7. [Robert Haase](https://haesleinhuepf.github.io/): He leads the [Bio-image Analysis Group](https://physics-of-life.tu-dresden.de/en/research/core-groups/bio-image-analysis)
+8. [Weigert group](https://www.epfl.ch/labs/weigert-lab/): Led by [Martin Weigert](https://scholar.google.de/citations?user=ZltxyqoAAAAJ&hl=de), this group focuses on the development of new machine learning based approaches to extract quantitative biological information from microscopy images and the design of novel computational methods to augment and improve optical microscopy.
+9. [Kainmueller Lab](https://www.mdc-berlin.de/kainmueller): Led by [Dr. Dagmar Kainmueller](https://www.mdc-berlin.de/person/dr-dagmar-kainmuller), this lab pursues theoretical advances in machine learning and combinatorial optimization to solve challenging image analysis problems in biology.
+10. [Uwe Schmidt](http://research.uweschmidt.org/)
 
 (more information will be added soon)
 
@@ -52,16 +55,20 @@ A collection of resources on bioimage analysis and related tools and techniques.
 
 ## Blogs
 
-(Coming soon)
+- [The BiA-PoL blog](https://biapol.github.io/blog/): The blog of the Bio-image Analysis Technology Development group at the DFG Cluster of Excellence "Physics of Life", TU Dresden.
+
+(More coming soon)
 
 ## Softwares and Toolkits
 
+- [BioImage Model Zoo](https://bioimage.io/#/): This is a community-driven, fully open resource where standardized pre-trained models can be shared, explored, tested, and downloaded for further adaptation or direct deployment in multiple end user-facing tools. It has models, applications and datasets for bioimage analysis.
 - [QuPath](https://qupath.github.io/): QuPath is an open, powerful, flexible, extensible software platform for bioimage analysis.
 - [ilastik](https://www.ilastik.org/): ilastik is a simple, user-friendly tool for interactive image classification, segmentation and analysis, developed by the ilastik team in Anna Kreshuk's lab at the European Molecular Biology Laboratory.
 - [ImageJ](https://imagej.nih.gov/ij/)
 - [CellProfiler](https://cellprofiler.org/)
 - [Fiji](https://fiji.sc/)
 - [Icy](https://icy.bioimageanalysis.org/)
+- [DeepImageJ](https://deepimagej.github.io/deepimagej/)
  
 
 
