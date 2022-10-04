@@ -39,6 +39,10 @@ A collection of resources on bioimage analysis and related tools and techniques.
 1. [Kreshuk Group](https://www.embl.org/groups/kreshuk/) - Machine learning for bioimage analysis: Led by [Anna Kreshuk](https://www.embl.org/people/person/f6c69f1e5895edd0a5b4577c1c21312c37abad3b950b90f2edba134b1bf45e06/), the Kreshuk group develops machine learning-based methods and tools for automatic segmentation, classification and analysis of biological images.
 2. [Biological Image Analysis Unit (BIA)](https://research.pasteur.fr/en/team/bioimage-analysis/): Headed by [Jean-Christophe Olivo-Marin](https://research.pasteur.fr/en/member/jean-christophe-olivo-marin/), this group develops and improves on original and rigorous methodologies for the quantification of 3D multichannel image sequences in biological imaging, at the cellular and molecular level, but also at the level of organizations.
 3. [LOÏC ROYER, DR. RER. NAT.](https://www.czbiohub.org/people/cz-biohub-staff/loic-royer-dr-rer-nat/)
+4. [Henriques Laboratory](https://henriqueslab.github.io/): Headed by [Ricardo Henriques](https://henriqueslab.github.io/team/2013-09-01-RH/).
+5. [Jug Group](https://humantechnopole.it/en/research-groups/jug-group/): Headed by [Florian Jug](https://humantechnopole.it/en/people/florian-jug/).
+6. [Myers Lab](http://myerslab.mpi-cbg.de/): Headed by [Gene Myers](https://myerslab.mpi-cbg.de/people/gene/).
+7. [Robert Haase](https://haesleinhuepf.github.io/)
 
 (more information will be added soon)
 
