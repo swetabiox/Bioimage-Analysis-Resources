@@ -6,7 +6,8 @@ A collection of resources on bioimage analysis and related tools and techniques.
 - [Courses/Learning resources](#courses-and-learning-resources-for-bioimage-analysis)
 - [Researchers/Labs](#researchers-and-labs-working-on-bioimage-analysis)
 - [Papers](#landmark-papers)
-- [Softwares](#softwares)
+- [Blogs](#blogs)
+- [Softwares and Toolkits](#softwares-and-toolkits)
 - [Python libraries](#python-libraries-and-plugins)
 
 ## Sources of bioimage datasets
@@ -45,13 +46,20 @@ A collection of resources on bioimage analysis and related tools and techniques.
 
 (Coming soon)
 
-## Softwares
+## Blogs
 
-1. [QuPath](https://qupath.github.io/): QuPath is an open, powerful, flexible, extensible software platform for bioimage analysis.
-2. [ImageJ](https://imagej.nih.gov/ij/)
-3. [CellProfiler](https://cellprofiler.org/)
-4. [Fiji](https://fiji.sc/)
-5. [Icy](https://icy.bioimageanalysis.org/)
+(Coming soon)
+
+## Softwares and Toolkits
+
+- [QuPath](https://qupath.github.io/): QuPath is an open, powerful, flexible, extensible software platform for bioimage analysis.
+- [ilastik](https://www.ilastik.org/): ilastik is a simple, user-friendly tool for interactive image classification, segmentation and analysis, developed by the ilastik team in Anna Kreshuk's lab at the European Molecular Biology Laboratory.
+- [ImageJ](https://imagej.nih.gov/ij/)
+- [CellProfiler](https://cellprofiler.org/)
+- [Fiji](https://fiji.sc/)
+- [Icy](https://icy.bioimageanalysis.org/)
+ 
+
 
 (More coming soon)
 
