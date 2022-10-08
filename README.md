@@ -46,16 +46,26 @@ A collection of resources on bioimage analysis and related tools and techniques.
 8. [Weigert group](https://www.epfl.ch/labs/weigert-lab/): Led by [Martin Weigert](https://scholar.google.de/citations?user=ZltxyqoAAAAJ&hl=de), this group focuses on the development of new machine learning based approaches to extract quantitative biological information from microscopy images and the design of novel computational methods to augment and improve optical microscopy.
 9. [Kainmueller Lab](https://www.mdc-berlin.de/kainmueller): Led by [Dr. Dagmar Kainmueller](https://www.mdc-berlin.de/person/dr-dagmar-kainmuller), this lab pursues theoretical advances in machine learning and combinatorial optimization to solve challenging image analysis problems in biology.
 10. [Uwe Schmidt](http://research.uweschmidt.org/)
+11. [Kota Miura](https://www.researchgate.net/profile/Kota-Miura-3): Dr. Kota Miura is a Freelance Bioimage Analyst and works with various research groups and companies in Europe, for teaching, consulting, and collaborations. He also is affiliated with the Nikon Imaging Center at the University of Heidelberg and is the Vice-Chair of NEUBIAS (the Network of European Bioimage Analysts).
+12. [Quantitative Microscopy](https://www.it.uu.se/about_us/divisions/vi3/research/quantitativemicroscopy): A research group at Uppsala University that develops automatic image analysis methods for microscopy.
+13. [Nataša Sladoje](https://www.cb.uu.se/~natasa/?n=Main.Main)
+14. [Uhlmann Group](https://www.ebi.ac.uk/research/uhlmann/): Led by [Virginie Uhlmann](https://www.ebi.ac.uk/people/person/virginie-uhlmann/), the Uhlmann group develops methods to quantify morphology from microscopy images, whether they are 2D, 3D, static, dynamic, and of any imaging modality.
 
 (more information will be added soon)
 
 ## Landmark Papers
 
-(Coming soon)
+1. [Bioimage Data Analysis Workflows](https://link.springer.com/book/10.1007/978-3-030-22386-1): This Open Access textbook provides students and researchers in the life sciences with essential practical information on how to quantitatively analyze data images.
+2. [Bioimage Data Analysis Workflows ‒ Advanced Components and Methods](https://link.springer.com/book/10.1007/978-3-030-76394-7): This open access textbook aims at providing detailed explanations on how to design and construct image analysis workflows to successfully conduct bioimage analysis. Addressing the main challenges in image data analysis, where acquisition by powerful imaging devices results in very large amounts of collected image data, the book discusses techniques relying on batch and GPU programming, as well as on powerful deep learning-based algorithms. 
+3. [A bird’s-eye view of deep learning in bioimage analysis](https://www.sciencedirect.com/science/article/pii/S2001037020303561)
+4. [A Practical Guide to Supervised Deep Learning for Bioimage Analysis: Challenges and good practices](https://ieeexplore.ieee.org/document/9721183)
+
+(More coming soon)
 
 ## Blogs
 
 - [The BiA-PoL blog](https://biapol.github.io/blog/): The blog of the Bio-image Analysis Technology Development group at the DFG Cluster of Excellence "Physics of Life", TU Dresden.
+- [Interpreting bioimages with deep learning](https://www.ebi.ac.uk/about/news/perspectives/deep-learning-bioimaging/)
 
 (More coming soon)
 
