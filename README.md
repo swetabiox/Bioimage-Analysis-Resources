@@ -79,6 +79,7 @@ A collection of resources on bioimage analysis and related tools and techniques.
 - [Fiji](https://fiji.sc/)
 - [Icy](https://icy.bioimageanalysis.org/)
 - [DeepImageJ](https://deepimagej.github.io/deepimagej/)
+- [Microscopy Image Stitching Tool](https://pages.nist.gov/MIST/): Microscopy Image Stitching Tool (MIST), is a stitching tool for 2D grids of images.
  
 
 
