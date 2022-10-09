@@ -31,6 +31,7 @@ A collection of resources on bioimage analysis and related tools and techniques.
 5. [Quantitative Bio-Image Analysis with Python Course from BiA-PoL](https://github.com/BiAPoL/Quantitative_Bio_Image_Analysis_with_Python_2022): This 5-day course introduces us to the basics of image data science using Python, napari and Jupyter, enabling us to develop reproducible image analysis workflows using state-of-the art data science methods.
 6. [Introduction to Bio-Image Analysis](https://www.denbi.de/online-training-media-library/919-introduction-to-bioimaging): Robert Haase of CSBD/MPI-CBG Dresden gave lectures as part of a lecture series at Biotec TU Dresden about Bio-Image Analysis using Fiji, ImageJ, and others KNIME, good scientific practice and image analysis basics.
 7. [Bioimage analysis talk series](https://www.ibiology.org/techniques/bioimage-analysis/): In this series, Dr. Anne Carpenter and Dr. Kevin Eliceiri provide an overview of bioimage analysis.
+8. [CellProfiler tutorials](https://github.com/CellProfiler/tutorials): CellProfiler tutorials are exercises that have guided groups of users through to help them better understand how to use CellProfiler.
 
 (more information will be added soon)
 
