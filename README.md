@@ -32,6 +32,7 @@ A collection of resources on bioimage analysis and related tools and techniques.
 6. [Introduction to Bio-Image Analysis](https://www.denbi.de/online-training-media-library/919-introduction-to-bioimaging): Robert Haase of CSBD/MPI-CBG Dresden gave lectures as part of a lecture series at Biotec TU Dresden about Bio-Image Analysis using Fiji, ImageJ, and others KNIME, good scientific practice and image analysis basics.
 7. [Bioimage analysis talk series](https://www.ibiology.org/techniques/bioimage-analysis/): In this series, Dr. Anne Carpenter and Dr. Kevin Eliceiri provide an overview of bioimage analysis.
 8. [CellProfiler tutorials](https://github.com/CellProfiler/tutorials): CellProfiler tutorials are exercises that have guided groups of users through to help them better understand how to use CellProfiler.
+9. [Introduction to Bioimage Analysis by Pete Bankhead](https://bioimagebook.github.io/README.html)
 
 (more information will be added soon)
 
@@ -51,6 +52,7 @@ A collection of resources on bioimage analysis and related tools and techniques.
 12. [Quantitative Microscopy](https://www.it.uu.se/about_us/divisions/vi3/research/quantitativemicroscopy): A research group at Uppsala University that develops automatic image analysis methods for microscopy.
 13. [Nataša Sladoje](https://www.cb.uu.se/~natasa/?n=Main.Main)
 14. [Uhlmann Group](https://www.ebi.ac.uk/research/uhlmann/): Led by [Virginie Uhlmann](https://www.ebi.ac.uk/people/person/virginie-uhlmann/), the Uhlmann group develops methods to quantify morphology from microscopy images, whether they are 2D, 3D, static, dynamic, and of any imaging modality.
+15. [Pete Bankhead](https://www.ed.ac.uk/pathology/people/staff-students/peter-bankhead)
 
 (more information will be added soon)
 
