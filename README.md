@@ -33,6 +33,9 @@ A collection of resources on bioimage analysis and related tools and techniques.
 7. [Bioimage analysis talk series](https://www.ibiology.org/techniques/bioimage-analysis/): In this series, Dr. Anne Carpenter and Dr. Kevin Eliceiri provide an overview of bioimage analysis.
 8. [CellProfiler tutorials](https://github.com/CellProfiler/tutorials): CellProfiler tutorials are exercises that have guided groups of users through to help them better understand how to use CellProfiler.
 9. [Introduction to Bioimage Analysis by Pete Bankhead](https://bioimagebook.github.io/README.html)
+10. [Microscopy data analysis: Machine learning and the BioImage Archive](https://www.ebi.ac.uk/training/materials/microscopy-image-analysis-materials/): The 2021 Microscopy data analysis course, organised in association with Wellcome and EOSC-life, provided training to develop programmatic skills for the analysis of bioimage data.
+11. [Introduction to R for bioimage analysis](https://github.com/marionlouveaux/NEUBIAS_TS10_Rintro/)
+12. [Bioimage Informatics Index - List of Training Materials](https://biii.eu/training-material): Last but not the least, here you can find all other resources and training materials for workshops/webinars/courses etc. conducted on bioimage analysis.
 
 (more information will be added soon)
 
@@ -62,6 +65,7 @@ A collection of resources on bioimage analysis and related tools and techniques.
 2. [Bioimage Data Analysis Workflows ‒ Advanced Components and Methods](https://link.springer.com/book/10.1007/978-3-030-76394-7): This open access textbook aims at providing detailed explanations on how to design and construct image analysis workflows to successfully conduct bioimage analysis. Addressing the main challenges in image data analysis, where acquisition by powerful imaging devices results in very large amounts of collected image data, the book discusses techniques relying on batch and GPU programming, as well as on powerful deep learning-based algorithms. 
 3. [A bird’s-eye view of deep learning in bioimage analysis](https://www.sciencedirect.com/science/article/pii/S2001037020303561)
 4. [A Practical Guide to Supervised Deep Learning for Bioimage Analysis: Challenges and good practices](https://ieeexplore.ieee.org/document/9721183)
+5. [Data science in cell imaging lecture notes](https://assafzar.wixsite.com/dsci2020/lecture-slides)
 
 (More coming soon)
 
@@ -83,6 +87,7 @@ A collection of resources on bioimage analysis and related tools and techniques.
 - [Icy](https://icy.bioimageanalysis.org/)
 - [DeepImageJ](https://deepimagej.github.io/deepimagej/)
 - [Microscopy Image Stitching Tool](https://pages.nist.gov/MIST/): Microscopy Image Stitching Tool (MIST), is a stitching tool for 2D grids of images.
+- [CLIJ2](https://clij.github.io/): CLIJ2 is a GPU-accelerated image processing library for ImageJ/Fiji, Icy, Matlab and Java.
  
 
 
@@ -91,5 +96,8 @@ A collection of resources on bioimage analysis and related tools and techniques.
 ## Python libraries and plugins
 
 1. [Napari](https://napari.org/stable/)
+2. [The PYthon Microscopy Environment](https://python-microscopy.org/): The PYthon Microscopy Environment is an open-source package providing image acquisition and data analysis functionality for a number of microscopy applications, but with a particular emphasis on single molecule localisation microscopy (PALM/STORM/PAINT etc).
+3. [pyTFM](https://pytfm.readthedocs.io/en/latest/): pyTFM is a python package that allows you to analyze force generation and stresses in cells, cell colonies and confluent cell layers growing on a 2 dimensional surface.
+4. [The Allen Cell & Structure Segmenter](https://www.allencell.org/segmenter.html): It is a Python-based open source toolkit developed at the Allen Institute for Cell Science for 3D segmentation of intracellular structures in fluorescence microscope images.
 
 (More Coming soon)
