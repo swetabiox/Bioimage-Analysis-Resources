@@ -35,7 +35,8 @@ A collection of resources on bioimage analysis and related tools and techniques.
 9. [Introduction to Bioimage Analysis by Pete Bankhead](https://bioimagebook.github.io/README.html)
 10. [Microscopy data analysis: Machine learning and the BioImage Archive](https://www.ebi.ac.uk/training/materials/microscopy-image-analysis-materials/): The 2021 Microscopy data analysis course, organised in association with Wellcome and EOSC-life, provided training to develop programmatic skills for the analysis of bioimage data.
 11. [Introduction to R for bioimage analysis](https://github.com/marionlouveaux/NEUBIAS_TS10_Rintro/)
-12. [Bioimage Informatics Index - List of Training Materials](https://biii.eu/training-material): Last but not the least, here you can find all other resources and training materials for workshops/webinars/courses etc. conducted on bioimage analysis.
+12. [Bioimage Informatics Index - List of Training Materials](https://biii.eu/training-material): Here you can find all other resources and training materials for workshops/webinars/courses etc. conducted on bioimage analysis.
+13. [Data science in cell imaging lecture notes](https://assafzar.wixsite.com/dsci2020/lecture-slides)
 
 (more information will be added soon)
 
@@ -65,7 +66,6 @@ A collection of resources on bioimage analysis and related tools and techniques.
 2. [Bioimage Data Analysis Workflows ‒ Advanced Components and Methods](https://link.springer.com/book/10.1007/978-3-030-76394-7): This open access textbook aims at providing detailed explanations on how to design and construct image analysis workflows to successfully conduct bioimage analysis. Addressing the main challenges in image data analysis, where acquisition by powerful imaging devices results in very large amounts of collected image data, the book discusses techniques relying on batch and GPU programming, as well as on powerful deep learning-based algorithms. 
 3. [A bird’s-eye view of deep learning in bioimage analysis](https://www.sciencedirect.com/science/article/pii/S2001037020303561)
 4. [A Practical Guide to Supervised Deep Learning for Bioimage Analysis: Challenges and good practices](https://ieeexplore.ieee.org/document/9721183)
-5. [Data science in cell imaging lecture notes](https://assafzar.wixsite.com/dsci2020/lecture-slides)
 
 (More coming soon)
 
