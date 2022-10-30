@@ -19,6 +19,7 @@ A collection of resources on bioimage analysis and related tools and techniques.
 - [UCSB Bio-Segmentation Benchmark dataset](https://bioimage.ucsb.edu/research/bio-segmentation): Consists of 2D/3D images and time-lapse sequences that can be used for evaluating the performance of novel state of the art computer vision algorithms. Tasks include segmentation, classification, and tracking.
 - [PARASITIC EGG DETECTION AND CLASSIFICATION IN MICROSCOPIC IMAGES](https://ieee-dataport.org/competitions/parasitic-egg-detection-and-classification-microscopic-images): The dataset contains 11 parasitic egg types. Each category has 1,000 images, suitable for classification/object recognition.
 - [HUMAN SOMATIC LABEL-FREE BRIGHT-FIELD CELL IMAGES](https://ieee-dataport.org/documents/human-somatic-label-free-bright-field-cell-images): Suitable for multi-class cell classification.
+- [CELL TRACKING CHALLENGE](http://celltrackingchallenge.net/): The datasets consist of [2D](http://celltrackingchallenge.net/2d-datasets/) and [3D](http://celltrackingchallenge.net/3d-datasets/) time-lapse video sequences of fluorescent counterstained nuclei or cells moving on top or immersed in a substrate, along with 2D Bright Field, Phase Contrast, and Differential Interference Contrast (DIC) microscopy videos of cells moving on a flat substrate. The videos cover a wide range of cell types and quality (spatial and temporal resolution, noise levels etc.)
 
 (more information will be added soon)
 
