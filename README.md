@@ -61,6 +61,7 @@ A collection of resources on bioimage analysis and related tools and techniques.
 13. [Nataša Sladoje](https://www.cb.uu.se/~natasa/?n=Main.Main)
 14. [Uhlmann Group](https://www.ebi.ac.uk/research/uhlmann/): Led by [Virginie Uhlmann](https://www.ebi.ac.uk/people/person/virginie-uhlmann/), the Uhlmann group develops methods to quantify morphology from microscopy images, whether they are 2D, 3D, static, dynamic, and of any imaging modality.
 15. [Pete Bankhead](https://www.ed.ac.uk/pathology/people/staff-students/peter-bankhead)
+16. [Simon F. Nørrelykke](https://norsimon.github.io/about/)
 
 (more information will be added soon)
 
@@ -92,6 +93,7 @@ A collection of resources on bioimage analysis and related tools and techniques.
 - [DeepImageJ](https://deepimagej.github.io/deepimagej/)
 - [Microscopy Image Stitching Tool](https://pages.nist.gov/MIST/): Microscopy Image Stitching Tool (MIST), is a stitching tool for 2D grids of images.
 - [CLIJ2](https://clij.github.io/): CLIJ2 is a GPU-accelerated image processing library for ImageJ/Fiji, Icy, Matlab and Java.
+- [The Allen Cell & Structure Segmenter](https://www.allencell.org/segmenter.html): It is a Python-based open source toolkit developed at the Allen Institute for Cell Science for 3D segmentation of intracellular structures in fluorescence microscope images.
  
 
 
@@ -102,6 +104,5 @@ A collection of resources on bioimage analysis and related tools and techniques.
 1. [Napari](https://napari.org/stable/)
 2. [The PYthon Microscopy Environment](https://python-microscopy.org/): The PYthon Microscopy Environment is an open-source package providing image acquisition and data analysis functionality for a number of microscopy applications, but with a particular emphasis on single molecule localisation microscopy (PALM/STORM/PAINT etc).
 3. [pyTFM](https://pytfm.readthedocs.io/en/latest/): pyTFM is a python package that allows you to analyze force generation and stresses in cells, cell colonies and confluent cell layers growing on a 2 dimensional surface.
-4. [The Allen Cell & Structure Segmenter](https://www.allencell.org/segmenter.html): It is a Python-based open source toolkit developed at the Allen Institute for Cell Science for 3D segmentation of intracellular structures in fluorescence microscope images.
 
 (More Coming soon)
